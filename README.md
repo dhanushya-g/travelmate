@@ -30,37 +30,7 @@ The application is designed with a responsive UI and integrates Supabase for bac
 
 ---
 
-## 🖼️ Screenshots
 
-### Home Page
-
-> Add screenshot here
-
-```
-screenshots/home.png
-```
-
----
-
-### Trip Planner
-
-> Add screenshot here
-
-```
-screenshots/trip-planner.png
-```
-
----
-
-### Login Page
-
-> Add screenshot here
-
-```
-screenshots/login.png
-```
-
----
 
 ## 🛠️ Tech Stack
 
